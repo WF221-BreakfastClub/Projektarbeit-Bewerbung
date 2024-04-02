@@ -6,3 +6,6 @@ vier Studierende auf der Suche nach einem Partner-Unternehmen für eine Gruppen-
 * ISCED 2011: 655;
 * Schwerpunkt Wirtschaftsinformatik;
 * Zusatzfach Personalwirtschaft.
+
+
+![Logo](https://github.com/WF221-BreakfastClub/Projektarbeit-Visitenkarte/blob/main/Logo.png)
