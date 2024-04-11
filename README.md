@@ -7,5 +7,5 @@ vier Studierende auf der Suche nach einem Partner-Unternehmen für eine Gruppen-
 * Schwerpunkt Wirtschaftsinformatik;
 * Zusatzfach Personalwirtschaft.
 
-
+<img href="https://github.com/WF221-BreakfastClub/Projektarbeit-Visitenkarte/blob/main/Logo.png" width=50%>
 ![Logo](https://github.com/WF221-BreakfastClub/Projektarbeit-Visitenkarte/blob/main/Logo.png)
