@@ -1,11 +1,10 @@
 ## BreakfastClub 
-vier Studierende auf der Suche nach einem Partner-Unternehmen für eine Gruppen-Projektarbeit, um jeweils den Abschluss **„Staatlich geprüfte/r Betriebswirt/in“ (Bachelor Professional in Wirtschaft)** machen zu können 
+Wir sind vier Studierende auf der Suche nach einem Partner-Unternehmen für eine Gruppen-Projektarbeit, um jeweils den Abschluss **„Staatlich geprüfte/r Betriebswirt/in“ (Bachelor Professional in Wirtschaft)** machen zu können gemäß [APO BK Anlage E](https://www.berufsbildung.nrw.de/cms/upload/_lehrplaene/e/betriebswirtschaft.pdf).
 
-* gemäß [APO BK Anlage E](https://www.berufsbildung.nrw.de/cms/upload/_lehrplaene/e/betriebswirtschaft.pdf);
-* DQR/EQR: 6;
-* ISCED 2011: 655;
-* Schwerpunkt Wirtschaftsinformatik;
-* Zusatzfach Personalwirtschaft.
+Ziel ist es, wie ein externer Dienstleister ein reales Problem Ihres Unternehmens zu analysieren und entsprechende Lösungsansätze zu entwickeln, zu dokumentieren und zu präsentieren. Das Ergebnis ist ein vorrangig betrieblich verwertbares Produkt oder eine Leistung.
 
-<img href="https://github.com/WF221-BreakfastClub/Projektarbeit-Visitenkarte/blob/main/Logo.png" width=50%>
-![Logo](https://github.com/WF221-BreakfastClub/Projektarbeit-Visitenkarte/blob/main/Logo.png)
+Dafür sind wir auf der Suche nach einem Unternehmen, mit dem wir partnerschaftlich zusammenarbeiten können. Wir sind fest davon überzeugt, dass diese Kooperation Synergien entfalten kann, welche langfristig Werte auf beiden Seiten schaffen wird.
+
+
+Weitere Informationen können Sie den beiliegenden Dokumenten entnehmen.
+Wir freuen uns bereits auf die spannende Zusammenarbeit. 
